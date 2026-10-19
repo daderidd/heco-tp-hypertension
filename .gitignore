@@ -1,0 +1,11 @@
+# Matériel enseignant : ne jamais publier
+_enseignant/
+generer_donnees.py
+config*.py
+rapport_calibration.md
+verite_terrain*
+pieges.csv
+
+.ipynb_checkpoints/
+.DS_Store
+__pycache__/
