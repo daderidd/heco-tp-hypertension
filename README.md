@@ -20,7 +20,7 @@ Les données sont lues directement depuis ce dépôt : aucun fichier à téléch
 | `dictionnaire_donnees.md` | Description des fichiers et des variables |
 | `donnees/assures.csv` | Une ligne par personne assurée |
 | `donnees/prestations.csv` | Décomptes hors médicaments |
-| `donnees/medicaments.csv` | Délivrances en pharmacie (code ATC) |
+| `donnees/medicaments.csv` | Médicaments remis ou administrés en ambulatoire (code ATC, prestataire) |
 | `donnees/referentiel_atc.csv` | Correspondance code ATC / substance / groupe |
 | `donnees/referentiel_prestataires.csv` | Catégorie, canton, spécialité et statut juridique des prestataires de soins |
 
