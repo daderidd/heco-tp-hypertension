@@ -5,6 +5,7 @@ config*.py
 rapport_calibration.md
 verite_terrain*
 pieges.csv
+*_corrige.ipynb
 
 .ipynb_checkpoints/
 .DS_Store
