@@ -1,0 +1,77 @@
+code_atc,substance,groupe_anatomique,groupe_atc_niveau4,libelle_niveau4
+A02BC02,pantoprazole,Voies digestives et métabolisme,A02B,
+A02BC05,ésoméprazole,Voies digestives et métabolisme,A02B,
+A10AE04,insuline glargine,Voies digestives et métabolisme,A10A,Insulines
+A10BA02,metformine,Voies digestives et métabolisme,A10B,Antidiabétiques non insuliniques
+A10BH01,sitagliptine,Voies digestives et métabolisme,A10B,Antidiabétiques non insuliniques
+A10BJ06,sémaglutide,Voies digestives et métabolisme,A10B,Antidiabétiques non insuliniques
+A10BK01,dapagliflozine,Voies digestives et métabolisme,A10B,Antidiabétiques non insuliniques
+A10BK03,empagliflozine,Voies digestives et métabolisme,A10B,Antidiabétiques non insuliniques
+A11CC05,colécalciférol,Voies digestives et métabolisme,A11C,
+B01AF01,rivaroxaban,Sang et organes hématopoïétiques,B01A,Antithrombotiques
+B01AF02,apixaban,Sang et organes hématopoïétiques,B01A,Antithrombotiques
+B03XA01,érythropoïétine,Sang et organes hématopoïétiques,B03X,
+C02AC05,moxonidine,Système cardiovasculaire,C02A,Antiadrénergiques d'action centrale
+C02CA04,doxazosine,Système cardiovasculaire,C02C,Antiadrénergiques d'action périphérique
+C03AA03,hydrochlorothiazide,Système cardiovasculaire,C03A,Diurétiques thiazidiques
+C03BA04,chlortalidone,Système cardiovasculaire,C03B,Diurétiques apparentés aux thiazidiques
+C03BA11,indapamide,Système cardiovasculaire,C03B,Diurétiques apparentés aux thiazidiques
+C03CA01,furosémide,Système cardiovasculaire,C03C,Diurétiques de l'anse
+C03CA04,torasémide,Système cardiovasculaire,C03C,Diurétiques de l'anse
+C03DA01,spironolactone,Système cardiovasculaire,C03D,Épargneurs potassiques
+C07AA05,propranolol,Système cardiovasculaire,C07A,Bêtabloquants
+C07AB02,métoprolol,Système cardiovasculaire,C07A,Bêtabloquants
+C07AB07,bisoprolol,Système cardiovasculaire,C07A,Bêtabloquants
+C07AB12,nébivolol,Système cardiovasculaire,C07A,Bêtabloquants
+C08CA01,amlodipine,Système cardiovasculaire,C08C,Inhibiteurs calciques sélectifs à effet vasculaire
+C08CA05,nifédipine,Système cardiovasculaire,C08C,Inhibiteurs calciques sélectifs à effet vasculaire
+C08CA13,lercanidipine,Système cardiovasculaire,C08C,Inhibiteurs calciques sélectifs à effet vasculaire
+C09AA02,énalapril,Système cardiovasculaire,C09A,IEC seuls
+C09AA04,périndopril,Système cardiovasculaire,C09A,IEC seuls
+C09AA05,ramipril,Système cardiovasculaire,C09A,IEC seuls
+C09BA04,périndopril et diurétiques,Système cardiovasculaire,C09B,IEC en association
+C09BA05,ramipril et diurétiques,Système cardiovasculaire,C09B,IEC en association
+C09BB07,ramipril et amlodipine,Système cardiovasculaire,C09B,IEC en association
+C09CA01,losartan,Système cardiovasculaire,C09C,Antagonistes de l'angiotensine II (ARA) seuls
+C09CA03,valsartan,Système cardiovasculaire,C09C,Antagonistes de l'angiotensine II (ARA) seuls
+C09CA04,irbésartan,Système cardiovasculaire,C09C,Antagonistes de l'angiotensine II (ARA) seuls
+C09CA06,candésartan,Système cardiovasculaire,C09C,Antagonistes de l'angiotensine II (ARA) seuls
+C09CA07,telmisartan,Système cardiovasculaire,C09C,Antagonistes de l'angiotensine II (ARA) seuls
+C09DA01,losartan et diurétiques,Système cardiovasculaire,C09D,ARA en association
+C09DA03,valsartan et diurétiques,Système cardiovasculaire,C09D,ARA en association
+C09DA06,candésartan et diurétiques,Système cardiovasculaire,C09D,ARA en association
+C09DB01,valsartan et amlodipine,Système cardiovasculaire,C09D,ARA en association
+C09DB04,telmisartan et amlodipine,Système cardiovasculaire,C09D,ARA en association
+C09DX01,"valsartan, amlodipine et hydrochlorothiazide",Système cardiovasculaire,C09D,ARA en association
+C10AA01,simvastatine,Système cardiovasculaire,C10A,Hypolipémiants seuls (statines)
+C10AA03,pravastatine,Système cardiovasculaire,C10A,Hypolipémiants seuls (statines)
+C10AA05,atorvastatine,Système cardiovasculaire,C10A,Hypolipémiants seuls (statines)
+C10AA07,rosuvastatine,Système cardiovasculaire,C10A,Hypolipémiants seuls (statines)
+D07AC01,bétaméthasone (topique),Dermatologie,D07A,
+G04CA02,tamsulosine,Système génito-urinaire et hormones sexuelles,G04C,
+H03AA01,lévothyroxine,Hormones systémiques,H03A,
+J01CR02,amoxicilline et acide clavulanique,Anti-infectieux,J01C,
+J01MA02,ciprofloxacine,Anti-infectieux,J01M,
+J05AR20,"emtricitabine, ténofovir alafénamide et bictégravir",Anti-infectieux,J05A,Antiviraux à action directe
+L01EF01,palbociclib,Antinéoplasiques et immunomodulateurs,L01E,Inhibiteurs de protéine kinase
+L02BA01,tamoxifène,Antinéoplasiques et immunomodulateurs,L02B,
+L04AB04,adalimumab,Antinéoplasiques et immunomodulateurs,L04A,Immunosuppresseurs
+L04AC05,ustékinumab,Antinéoplasiques et immunomodulateurs,L04A,Immunosuppresseurs
+M01AB05,diclofénac,Système musculo-squelettique,M01A,
+M01AE01,ibuprofène,Système musculo-squelettique,M01A,
+M05BA04,acide alendronique,Système musculo-squelettique,M05B,
+N02AX02,tramadol,Système nerveux,N02A,
+N02BE01,paracétamol,Système nerveux,N02B,
+N03AX16,prégabaline,Système nerveux,N03A,
+N05AH04,quétiapine,Système nerveux,N05A,
+N05BA06,lorazépam,Système nerveux,N05B,
+N05CF02,zolpidem,Système nerveux,N05C,
+N06AB06,sertraline,Système nerveux,N06A,
+N06AB10,escitalopram,Système nerveux,N06A,
+N06DA02,donépézil,Système nerveux,N06D,
+R03AC02,salbutamol,Système respiratoire,R03A,
+R03AK06,salmétérol et fluticasone,Système respiratoire,R03A,
+R06AE07,cétirizine,Système respiratoire,R06A,
+S01EE01,latanoprost (collyre),Organes sensoriels,S01E,
+S01LA05,aflibercept (injection intravitréenne),Organes sensoriels,S01L,
+S01XA20,larmes artificielles,Organes sensoriels,S01X,
