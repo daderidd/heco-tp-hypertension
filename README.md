@@ -1,6 +1,8 @@
 # Personnes traitées pour hypertension : profil, recours aux soins et coûts
 
-Atelier du module d'économie de la santé, Master en Sciences Biomédicales, Université de Genève.
+Les coûts de la santé à travers les données, atelier du 28.10.2026. David De Ridder, PhD.
+
+Health Economics & Clinical Outcomes, 14HS031, Master en sciences biomédicales, Université de Genève, 2026–2027.
 
 | Version | Ouvrir |
 |---|---|
